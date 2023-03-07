@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **erni.naval@gmail.com**
 
-- 🌱 I love **sports and partying**
+- 🌱 I love **sports and programming**
 
 
 <h3 align="left">Languages and Tools:</h3>
